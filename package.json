@@ -1,5 +1,5 @@
 {
-  "name": "web-app-leslie-mc-carthy",
+  "name": "site-angular",
   "version": "0.0.0",
   "license": "MIT",
   "angular-cli": {},
@@ -20,7 +20,7 @@
     "@angular/platform-browser": "^2.3.1",
     "@angular/platform-browser-dynamic": "^2.3.1",
     "@angular/router": "^3.3.1",
-    "angularfire2": "^2.0.0-beta.8",
+    "angular2-cli": "^1.0.0-alpha.6",
     "core-js": "^2.4.1",
     "firebase": "^3.6.10",
     "rxjs": "^5.0.1",

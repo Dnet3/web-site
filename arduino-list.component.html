@@ -1,0 +1,12 @@
+<div class="row">
+  <div class="col-xs-12">
+    <a class="btn btn-success">New Arduino</a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <ul class="list-group">
+      <app-arduino-item [arduino]="arduino" (click)="onSelected(arduino)"></app-arduino-item>
+    </ul>
+  </div>
+</div>
